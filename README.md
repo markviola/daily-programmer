@@ -1,0 +1,3 @@
+#Daily Programmer
+
+Daily Programmer is about challenging programmers of various skill levels, in weekly programming challenges that are Easy, Intermediate, and Hard. The goal is to get better practice in problem solving as well as getting peer evaluations in how the code can be further improved. Furthermore, by observing the code convention that more experienced programmers use, better coding practices can be achieved. 
